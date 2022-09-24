@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\FinalTest\obj\Debug\net6.0\FinalTest.GlobalUsings.g.cs
+C:\Users\Lenovo\Desktop\FinalTest\obj\Debug\net6.0\FinalTest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\FinalTest\obj\Debug\net6.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\FinalTest\obj\Debug\net6.0\FinalTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FinalTest\bin\Debug\net6.0\FinalTest.exe
+C:\Users\Lenovo\Desktop\FinalTest\bin\Debug\net6.0\FinalTest.deps.json
+C:\Users\Lenovo\Desktop\FinalTest\bin\Debug\net6.0\FinalTest.runtimeconfig.json
+C:\Users\Lenovo\Desktop\FinalTest\bin\Debug\net6.0\FinalTest.dll
+C:\Users\Lenovo\Desktop\FinalTest\bin\Debug\net6.0\ref\FinalTest.dll
+C:\Users\Lenovo\Desktop\FinalTest\bin\Debug\net6.0\FinalTest.pdb
+C:\Users\Lenovo\Desktop\FinalTest\obj\Debug\net6.0\FinalTest.dll
+C:\Users\Lenovo\Desktop\FinalTest\obj\Debug\net6.0\ref\FinalTest.dll
+C:\Users\Lenovo\Desktop\FinalTest\obj\Debug\net6.0\FinalTest.pdb
+C:\Users\Lenovo\Desktop\FinalTest\obj\Debug\net6.0\FinalTest.genruntimeconfig.cache
